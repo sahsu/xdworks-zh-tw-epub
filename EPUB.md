@@ -7,3 +7,4 @@
 * [startup-school-2012](https://github.com/sahsu/xdworks-zh-tw-epub/raw/master/startup-school-2012.epub)
 * [dd](https://github.com/sahsu/xdworks-zh-tw-epub/raw/master/dd.epub)
 * [yc-investor-school](https://github.com/sahsu/xdworks-zh-tw-epub/raw/master/yc-investor-school.epub)
+* [學習這回事](https://github.com/sahsu/xdworks-zh-tw-epub/raw/master/learn-something.epub)
