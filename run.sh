@@ -9,7 +9,7 @@ done
 rm EPUB.md
 find . -name 'SUMMARY.md' | while read i; do 
 DIR=`dirname $i | sed -e 's;\.\/;;g'`
-cd $DIR && gitbook epub ./ ../$DIR.epub && echo "* [$DIR]($DIR.epub)" >> ../EPUB.md
+cd $DIR && gitbook epub ./ ../$DIR.epub && echo "* [$DIR](https://github.com/sahsu/xdworks-zh-tw-epub/raw/master/$DIR.epub)" >> ../EPUB.md
 cd -
 
 done
