@@ -2,7 +2,7 @@
 1. this is a repo for clone xdworks each repo and do gb-tw to zh-tw and make epub. if you just want to epub, you can download directly.
 2. please go xdworks and do stars if you like.
 
-* each ready epub for download:
+# each ready epub for download:
 * [startup-school-2017](startup-school-2017.epub)
 * [startup-school-2018](startup-school-2018.epub)
 * [blitzscaling-cs183c](blitzscaling-cs183c.epub)
