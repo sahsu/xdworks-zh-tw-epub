@@ -1,6 +1,6 @@
 # xdworks-zh-tw-epub
-1. this is a repo for clone xdworks each repo and do gb-tw to zh-tw and make epub. if you just want to epub, you can download directly.
-2. please go xdworks and do stars if you like.
+1. this is a repo for clone https://github.com/xdworks/ each repo and do gb-tw to zh-tw and make epub. if you just want to epub, you can download directly.
+2. please go https://github.com/xdworks/ and do stars if you like.
 
 # each ready epub for download:
 * [startup-school-2017](https://github.com/sahsu/xdworks-zh-tw-epub/raw/master/startup-school-2017.epub)
